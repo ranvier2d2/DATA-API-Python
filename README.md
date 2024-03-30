@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubheyranvier2d2/DATA-API-Python
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranvier2d2/heyDATA-API-Python
 /blob/main/heyDATA_API.ipynb)
 
 
