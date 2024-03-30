@@ -3,11 +3,11 @@
 
 # Data API Python Client
 
-This repository contains a Python client for interacting with the HeyDataAPI to execute data skills. The client is implemented in a Jupyter Notebook (`heyDATA_API.ipynb`) and provides a convenient way to send user requests to the API and receive responses.
+This repository contains a Python client for interacting with the DataAPI to execute data skills. The client is implemented in a Jupyter Notebook (`DATA_API.ipynb`) and provides a convenient way to send user requests to the API and receive responses.
 
 ## Features
 
-- Easy-to-use Python client for the HeyDataAPI
+- Easy-to-use Python client for the DataAPI
 - Sends user requests to the API and retrieves responses
 - Parses API responses and extracts relevant information
 - Formats the dialogue between the user and the bot
@@ -27,7 +27,7 @@ This repository contains a Python client for interacting with the HeyDataAPI to 
 
 2. When prompted, enter your request for DATA.
 
-3. The notebook will send the request to the HeyDataAPI and display the formatted dialogue between the user and the bot.
+3. The notebook will send the request to the DataAPI and display the formatted dialogue between the user and the bot.
 
 4. The user will get the response in a markdown Bionic Reading style (optional) #ToDO.
 
@@ -37,7 +37,7 @@ This repository contains a Python client for interacting with the HeyDataAPI to 
 
 The notebook contains the following main components:
 
-- `HeyDataAPIClient` class: Interacts with the HeyDataAPI to execute data skills. It initializes with an API URL and has a `call_api` method that sends a POST request to the API with user input and returns the response.
+- `HeyDataAPIClient` class: Interacts with the DataAPI to execute data skills. It initializes with an API URL and has a `call_api` method that sends a POST request to the API with user input and returns the response.
 
 - `save_to_file` function: Saves the user input and API response to files. It creates a `chatlog.md` file if it doesn't exist and appends the formatted dialogue. It also appends the user input, bot name, and response details to `chatlog.txt`.
 
