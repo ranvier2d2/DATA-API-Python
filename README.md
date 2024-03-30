@@ -53,7 +53,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ## Acknowledgements
 
-- [heyDATA](https://chat.heydata.org) for providing the data skills execution functionality.
+- [DATA](https://chat.heydata.org) for providing the data skills execution functionality.
 - The open-source community for their valuable contributions and inspiration.
 
 ## Contact
