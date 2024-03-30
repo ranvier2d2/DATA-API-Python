@@ -59,4 +59,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 ## Contact
 Feel free to conact me on X for ML related stuff. Happy to talk! [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Dis_Trackted.svg?style=social&label=Follow%20%40Dis_Trackted)](https://twitter.com/Dis_Trackted)
 
-Partner & creator at heydata.org.
+Partner & creator at DATA.
