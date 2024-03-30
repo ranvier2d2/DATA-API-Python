@@ -1,7 +1,7 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranvier2d2/heyDATA-API-Python/blob/main/heyDATA_API.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranvier2d2/DATA-API-Python/blob/main/DATA_API.ipynb)
 
 
-# HeyDataAPI Python Client
+# Data API Python Client
 
 This repository contains a Python client for interacting with the HeyDataAPI to execute data skills. The client is implemented in a Jupyter Notebook (`heyDATA_API.ipynb`) and provides a convenient way to send user requests to the API and receive responses.
 
