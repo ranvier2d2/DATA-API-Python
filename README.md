@@ -1,5 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubheyDATA-API-Python
-/heyDATA_API.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubheyranvier2d2/DATA-API-Python
+/blob/main/heyDATA_API.ipynb)
+
 
 # HeyDataAPI Python Client
 
